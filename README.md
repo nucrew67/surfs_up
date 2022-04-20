@@ -10,7 +10,8 @@
 - Both June and December showed similar minimum, maximum, and average temperatures. 
 - Average temperatures for both months were in the 70’s.
 - The statistical study showed no wide fluctuations of temperature throughout the year. 
-![image](https://user-images.githubusercontent.com/99696816/164124953-acc5e446-0a01-4ceb-b6b8-bcbf4695e06f.png) ![image](https://user-images.githubusercontent.com/99696816/164124983-2cb95475-62ce-4f7c-9457-3e40dcd92ab4.png)
+
+![image](https://user-images.githubusercontent.com/99696816/164125110-ba2de246-488d-426a-baca-592087583a0f.png)
 
 
 
