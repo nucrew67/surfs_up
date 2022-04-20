@@ -11,6 +11,7 @@
 - Average temperatures for both months were in the 70’s.
 - The statistical study showed no wide fluctuations of temperature throughout the year. 
 ![image](https://user-images.githubusercontent.com/99696816/164124220-1c3e502c-6134-4b7a-99aa-29b588f5baec.png)
+
 ![image](https://user-images.githubusercontent.com/99696816/164124331-a696117a-2e04-4440-b9c2-5c196c14ad8f.png)
 
 
